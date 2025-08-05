@@ -42,8 +42,16 @@ I'm a 22-year-old Computer Scientist from Colombia, currently completing a Bache
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px">
 </p>
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EsteArgMartAcosta&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=ffffff&text_color=ffffff) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EsteArgMartAcosta&layout=compact&bg_color=45,fc00ff,00dbde&title_color=ffffff&text_color=ffffff) |
-| --- | --- |
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=EsteArgMartAcosta&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=ffffff&text_color=ffffff" width="95%">
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsteArgMartAcosta&layout=compact&bg_color=45,fc00ff,00dbde&title_color=ffffff&text_color=ffffff" width="95%">
+    </td>
+  </tr>
+</table>
 
 
 
