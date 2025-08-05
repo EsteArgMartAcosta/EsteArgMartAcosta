@@ -37,21 +37,21 @@ I'm a 22-year-old Computer Scientist from Colombia, currently completing a Bache
 -------------------
 
 <h2 align="center">📊 My GitHub Status</h2>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px">
+<p align="center" style="margin-top:-10px;">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px">
 </p>
 
-<table width="100%">
+<table align="center" width="100%" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=EsteArgMartAcosta&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=ffffff&text_color=ffffff" width="95%">
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=EsteArgMartAcosta&show_icons=true&hide_rank=true&include_all_commits=true&bg_color=45,fc00ff,00dbde&title_color=ffffff&text_color=ffffff&hide_border=true" width="95%">
     </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsteArgMartAcosta&layout=compact&bg_color=45,fc00ff,00dbde&title_color=ffffff&text_color=ffffff" width="95%">
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsteArgMartAcosta&layout=compact&bg_color=45,fc00ff,00dbde&title_color=ffffff&text_color=ffffff&hide_border=true" width="95%">
     </td>
   </tr>
 </table>
+
 
 
 
