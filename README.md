@@ -47,10 +47,11 @@ I'm a 22-year-old Computer Scientist from Colombia, currently completing a Bache
 
 ## My Trending Repos 💻
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=EsteArgMartAcosta&repo=Laboratorio-Criptograf-a&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/EsteArgMartAcosta/Laboratorio-Criptograf-a)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=EsteArgMartAcosta&repo=Laboratorio-Criptografia&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/EsteArgMartAcosta/Laboratorio-Criptografia)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=EsteArgMartAcosta&repo=Aeropouerto&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/EsteArgMartAcosta/Aeropouerto)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=EsteArgMartAcosta&repo=Criptograf-a-Proyecto&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/EsteArgMartAcosta/Criptograf-a-Proyecto)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=EsteArgMartAcosta&repo=Criptografia-Proyecto&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/EsteArgMartAcosta/Criptografia-Proyecto)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=EsteArgMartAcosta&repo=Game-of-Amazon&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/EsteArgMartAcosta/Game-of-Amazon)
+
 
 
 
