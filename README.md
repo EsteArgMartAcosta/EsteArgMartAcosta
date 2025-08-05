@@ -37,7 +37,7 @@ I'm a 22-year-old Computer Scientist from Colombia, currently completing a Bache
 -------------------
 
 ## My Github Status <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px">
-| ![](https://github-readme-stats.vercel.app/api?username=EsteArgMartAcosta&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sourabmaity) |
+| ![](https://github-readme-stats.vercel.app/api?username=EsteArgMartAcosta&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EsteArgMartAcosta) |
 | --- | --- |
 | ![](https://github-readme-streak-stats.herokuapp.com/?user=sourabmaity) | ![Jokes Card](https://readme-jokes.vercel.app/api) |
 
@@ -47,11 +47,11 @@ I'm a 22-year-old Computer Scientist from Colombia, currently completing a Bache
 
 ## My Trending Repos 💻
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=sourabmaity&repo=DuckHuntGame-AI&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/sourabmaity/DuckHuntGame-AI)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=sourabmaity&repo=OpenCV_Basics&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/sourabmaity/OpenCV_Basics)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=sourabmaity&repo=JERVIS_AI&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/sourabmaity/JERVIS_AI)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=sourabmaity&repo=AlgorithmsAndDataStructure&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/sourabmaity/AlgorithmsAndDataStructure)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=sourabmaity&repo=Vegetable-Detection_App&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/sourabmaity/Vegetable-Detection_App)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=EsteArgMartAcosta&repo=DuckHuntGame-AI&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/sourabmaity/DuckHuntGame-AI)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=EsteArgMartAcosta&repo=OpenCV_Basics&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/sourabmaity/OpenCV_Basics)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=EsteArgMartAcosta&repo=JERVIS_AI&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/sourabmaity/JERVIS_AI)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=EsteArgMartAcosta&repo=AlgorithmsAndDataStructure&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/sourabmaity/AlgorithmsAndDataStructure)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=EsteArgMartAcosta&repo=Vegetable-Detection_App&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/sourabmaity/Vegetable-Detection_App)
 
 
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" />
