@@ -36,12 +36,15 @@ I'm a 22-year-old Computer Scientist from Colombia, currently completing a Bache
 
 -------------------
 
-<h2 align="center" style="margin: 10px;">My Github Status</h2>
-## My Github Status<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px">
-| ![](https://github-readme-stats.vercel.app/api?username=EsteArgMartAcosta&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EsteArgMartAcosta) |
-| --- | --- |
-| ![](https://github-readme-streak-stats.herokuapp.com/?user=sourabmaity) | ![Jokes Card](https://readme-jokes.vercel.app/api) |
+<h2 align="center">📊 My GitHub Status</h2>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px">
+</p>
+
+| ![](https://github-readme-stats.vercel.app/api?username=EsteArgMartAcosta&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EsteArgMartAcosta&layout=compact&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff) |
+| --- | --- |
+| ![](https://github-readme-streak-stats.herokuapp.com/?user=EsteArgMartAcosta&theme=react&background=0D1117) | ![Jokes Card](https://readme-jokes.vercel.app/api) |
 
 
 -------------------
