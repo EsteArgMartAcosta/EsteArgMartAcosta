@@ -47,11 +47,11 @@ I'm a 22-year-old Computer Scientist from Colombia, currently completing a Bache
 
 ## My Trending Repos 💻
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=EsteArgMartAcosta&repo=DuckHuntGame-AI&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/sourabmaity/DuckHuntGame-AI)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=EsteArgMartAcosta&repo=OpenCV_Basics&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/sourabmaity/OpenCV_Basics)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=EsteArgMartAcosta&repo=JERVIS_AI&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/sourabmaity/JERVIS_AI)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=EsteArgMartAcosta&repo=AlgorithmsAndDataStructure&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/sourabmaity/AlgorithmsAndDataStructure)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=EsteArgMartAcosta&repo=Vegetable-Detection_App&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/sourabmaity/Vegetable-Detection_App)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=EsteArgMartAcosta&repo=Laboratorio-Criptograf-a&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/EsteArgMartAcosta/Laboratorio-Criptograf-a)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=EsteArgMartAcosta&repo=Aeropouerto&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/EsteArgMartAcosta/Aeropouerto)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=EsteArgMartAcosta&repo=Criptograf-a-Proyecto&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/EsteArgMartAcosta/Criptograf-a-Proyecto)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=EsteArgMartAcosta&repo=Game-of-Amazon&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/EsteArgMartAcosta/Game-of-Amazon)
+
 
 
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" />
