@@ -1,3 +1,7 @@
+<img src="https://github.com/sourabmaity/sourabmaity/blob/main/text.gif" height="30"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"><a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+<img src="https://github.com/sourabmaity/sourabmaity/blob/main/header_.png" >
+
 <h3 align="center">
   
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
