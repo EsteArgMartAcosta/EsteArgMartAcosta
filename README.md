@@ -5,7 +5,10 @@
 <h1 align="center">Hi 👋, I'm Esteban Martin</h1>
 <h3 align="center">Double major in Math and CS | Master’s student in Mathematical Sciences | Interested in AI, ML, and data-driven discovery..</h3>
 
+<p align="justify">
 I'm a 22-year-old Computer Scientist from Colombia, currently completing a Bachelor's degree in Mathematics and pursuing a Master's in Mathematical Sciences at the National University of Colombia. I’m passionate about the deep interplay between mathematics and computation — especially topology, geometry, data science, and algorithms.
+</p>
+
 
 <img width="50%" align="right" alt="Github Image" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 
