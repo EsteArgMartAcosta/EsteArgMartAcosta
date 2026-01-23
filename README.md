@@ -17,7 +17,7 @@ I’m a 22-year-old Computer Scientist and Mathematician from Colombia, currentl
 - 🤝 Open to collaborating on research projects in mathematical data science, AI, and theoretical computer science  
 - 📊 Focused on building models grounded in mathematical rigor and algorithmic clarity  
 - 💬 Ask me about topology, geometry, data science, or the math behind machine learning  
-- 🌍 Languages: Spanish 🇪🇸 | English 🇬🇧  
+- 🌍 Languages: Spanish 🇪🇸 | English 🇬🇧 | Portuguese 🇧🇷 
 - 📫 Reach me at: [martinacostadavidesteban@gmail.com](mailto:martinacostadavidesteban@gmail.com)  
 - ⚡ Fun fact: I see mathematics as both an art and a tool to understand the structure of reality  
 
