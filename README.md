@@ -3,10 +3,10 @@
 </h3>
 
 <h1 align="center">Hi 👋, I'm Esteban Martin</h1>
-<h3 align="center">Double major in Math and CS | Master’s student in Mathematical Sciences | Interested in AI, ML, and data-driven discovery..</h3>
+<h3 align="center">Double major in Math and CS | Master’s student in Pure Mathematics | Interested in AI, ML, and data-driven discovery.</h3>
 
 <p align="justify">
-I'm a 22-year-old Computer Scientist from Colombia, currently completing a Bachelor's degree in Mathematics and pursuing a Master's in Mathematical Sciences at the National University of Colombia. I’m passionate about the deep interplay between mathematics and computation — especially topology, geometry, data science, and algorithms.
+I’m a 22-year-old Computer Scientist and Mathematician from Colombia, currently pursuing a Master’s in Mathematical Sciences at IMPA. I’m passionate about the interplay between mathematics and computation—especially topology, geometry, algorithms, data science, and AI.
 </p>
 
 
