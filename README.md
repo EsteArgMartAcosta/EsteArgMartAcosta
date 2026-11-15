@@ -6,7 +6,7 @@
 <h3 align="center">Double major in Math and CS | Master’s student in Pure Mathematics | Interested in AI, ML, and data-driven discovery.</h3>
 
 <p align="justify">
-I’m a 22-year-old Computer Scientist and Mathematician from Colombia, currently pursuing a Master’s in Mathematical Sciences at IMPA. I’m passionate about the interplay between mathematics and computation—especially topology, geometry, algorithms, data science, and AI.
+I’m a 22-year-old computer scientist and mathematician with dual Argentine and Colombian citizenship, currently pursuing a master’s degree in Mathematical Sciences at IMPA. I’m passionate about the interplay between mathematics and computation, especially topology, geometry, algorithms, data science, and AI.
 </p>
 
 
